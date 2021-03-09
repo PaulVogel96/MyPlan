@@ -1,0 +1,14 @@
+<resources>
+    <!-- Main Activity -->
+    <string name="app_name">MyPlan</string>
+    <string name="app_greeting">Welcome to MyPlan</string>
+    <string name="button_createPlan">Create new workout plan</string>
+
+    <!-- Plan Configuration Activity -->
+    <string name="settings">Settings</string>
+    <string name="choose_distance">Choose your total distance:</string>
+    <string name="choose_max_distance">Choose your max exercise distance:</string>
+    <string name="choose_strokes">Choose your swimming strokes:</string>
+    <string name="choose_focus">Choose your focused stroke:</string>
+    <string name="choose_equipment">Choose your equipment:</string>
+</resources>
